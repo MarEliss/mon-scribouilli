@@ -1,8 +1,12 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+#Accompagnement en phytothérapie
 
-# L'Échappée Belle
+Dans la vie de tous les jours ou au gré des saisons, notre énergie fluctue.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Le monde végétal regorge de richesses pour soutenir les fonctions du corps.
+
+Je vous propose des entretiens pour mettre en lien des produits d'herboristerie avec votre état général afin d'en favoriser le bien-être. 
