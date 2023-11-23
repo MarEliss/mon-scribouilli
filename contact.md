@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 3
 in_menu: true
 ---
 Les entretiens sont sur rendez-vous au 06 35 29 82 83.  
