@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-#Accompagnement en phytothérapie
+# Accompagnement en phytothérapie
 
 Dans la vie de tous les jours ou au gré des saisons, notre énergie fluctue.
 
